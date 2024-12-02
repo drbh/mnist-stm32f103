@@ -1,0 +1,7 @@
+bak.*
+*.bin
+*.elf
+*.map
+data
+.venv
+*.png
